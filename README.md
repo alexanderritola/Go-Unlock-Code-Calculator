@@ -19,13 +19,13 @@ These are scripts that can be used to calculate unlock codes for various differe
 Check out main.go, use with command line arguments.
 
 ##Disclaimer
-This code is intended to be used for eductational purposes and comes with no guarantees of anything. In the USA it is illegal to unlock any phone purchased AFTER January 26th, 2013 without the carrier's permission.
+This code is intended to be used for eductational purposes and comes with no guarantees of anything. In the USA it is illegal to unlock any types of phone purchased AFTER January 26th, 2013 without the carrier's permission.
 
 ##Legal
 The MIT License (MIT)
 Copyright (c) <year> <copyright holders>
  
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction and including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
  
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  
