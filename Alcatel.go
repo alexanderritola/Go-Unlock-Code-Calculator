@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-func alcatelC700Calc(imei string, imp string, perm string, xorn string) string {  //C700 & friends
+func alcatelMW43TM(imei string, imp string, perm string, xorn string) string {  //C700 & friends
 	var (
 		swapimei = "08" //08 21 43 65 87 09 21 43 07
 		permimei = "" //perm of swap
